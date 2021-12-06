@@ -24,7 +24,7 @@ my passion for software lies with dreaming up ideas and making them come true wi
 <!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" height="40" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 do you want to ask me something? do reach, [email](mailto:joelbarrantespalacios@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
