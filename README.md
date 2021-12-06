@@ -53,7 +53,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 Python       4 hrs 40 mins   ███████████████░░░░░░░░░░   59.36 % 
 SQL          1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
 Bash         1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Postgresql **  45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Postgresql   45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
