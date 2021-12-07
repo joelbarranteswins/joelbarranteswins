@@ -1,4 +1,18 @@
+
+![](https://visitor-badge.glitch.me/badge?page_id=joelbarranteswin.joelbarranteswin)
+
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+<p align="center">
+	<a href="https://github.com/joelbarranteswin"><img src="imgs/github.svg" alt="GitHub"></a>
+  <a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://www.linkedin.com"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://github.com/joelbarranteswin"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+  <a href="https://github.com/joelbarranteswin"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+	<!-- <a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a> -->
+	
+</p>
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -12,13 +26,11 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=joelbarranteswin.joelbarranteswin)
-
 
 
 <br />
 
-hi, I'm [Joel Barrantes](https://abhishknads.me/), a passionate self-taught artificial intelligence and a freelance software from Perú. 
+hi, I'm [Joel Barrantes Palacios](https://abhishknads.me/), a passionate self-taught artificial intelligence and a freelance software from Perú. 
 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
@@ -64,7 +76,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todo list stats:**
 <!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
+🏆  1,982 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 50 tasks so far           
 ⏳  Longest streak is 10 days
