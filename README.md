@@ -11,7 +11,7 @@
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm joel barrantes palacios, a mining engineer and a passionate self-taught programmer who works like a freelance software development from Perú. 
+Hi, I'm **joel barrantes palacios**, a mining engineer and a passionate self-taught programmer who works like a freelance software development from Perú. 
  
 my passion for software lies with thinking ideas of making people's life easier and making them come true with elegant interfaces.
 
