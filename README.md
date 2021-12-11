@@ -1,5 +1,5 @@
 
-![](https://visitor-badge.glitch.me/badge?page_id=joelbarranteswin.joelbarranteswin)
+![joelbarranteswin](https://visitor-badge.glitch.me/badge?page_id=joelbarranteswin.joelbarranteswin)
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -10,27 +10,9 @@
 	<a href="https://www.linkedin.com"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://github.com/joelbarranteswin"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
   <a href="https://github.com/joelbarranteswin"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<!-- <a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a> -->
-	
 </p>
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
 
-
-
-<br />
-
-hi, I'm [Joel Barrantes Palacios](https://abhishknads.me/), a passionate self-taught artificial intelligence and a freelance software from Perú. 
+hi, I'm , a passionate self-taught artificial intelligence and a freelance software from Perú. 
 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
@@ -81,11 +63,16 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 50 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
+<br />
+<center>
+  📈 my github stats> <br /><br />
+<center>
 
 
-📈 my github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelbarranteswin&layout=compact&theme=gruvbox_light" alt="joelbarranteswin" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelbarranteswin&show_icons=true&theme=gotham" alt="joelbarranteswin" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelbarranteswin&show_icons=true&theme=gruvbox_light" alt="joelbarranteswin" />
 
 
 
