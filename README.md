@@ -1,7 +1,7 @@
 
 ![joelbarranteswin](https://visitor-badge.glitch.me/badge?page_id=joelbarranteswin.joelbarranteswin)
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 
 <p align="center">
@@ -12,10 +12,15 @@
   <a href="https://github.com/joelbarranteswin"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 
-hi, I'm , a passionate self-taught artificial intelligence and a freelance software from Perú. 
-my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+hi, I'm a mining engineer  and passionate self-taught programmer who works like a freelance software development from Perú. 
+ 
+my passion for software lies with thinking ideas of making people's life easier and making them come true with elegant interfaces.
+
+I take great care in the experience, design, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast because i learned a lot from the open-source community and i love collaborating and sharing my knowledge by YouTube, Full Stackoverflow and some group I belong to.
  
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
