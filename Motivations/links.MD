@@ -14,7 +14,17 @@
 
 
   [Joel Barrantes Palacios](https://abhishknads.me/)
-</a> -->
+
+-->
+
+🚧 **my todo list stats:**
+<!-- TODO-IST:START -->
+🏆  1,982 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 50 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
 
 
 ['Machine Learning ROADMAP' ](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
