@@ -36,6 +36,7 @@ I am also an open-source enthusiast because i learned a lot from the open-source
 <a href="https://github.com/" title="GitHub"><img height="60" src="icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img height="60" src="icons/gitlab.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img height="80"  src="icons/mysql.png" /></a>
+<a href="https://www.mysql.com/" title="SQLserver"><img height="80"  src="icons/sqlserver.png" /></a>
 <a href="https://www.mysql.com/" title="Postgresql"><img height="60" src="icons/postgresql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="50" src="icons/vscode.png" /></a>
 <a href="https://code.visualstudio.com/" title="anaconda naviagtor"><img height="50" src="icons/anaconda.png" /></a>
