@@ -77,10 +77,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
+<<<<<<< HEAD
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelbarranteswins&layout=compact&theme=gruvbox_light" alt="joelbarranteswins" />
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelbarranteswins&show_icons=true&theme=gruvbox_light" alt="joelbarranteswins" />
+=======
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelbarranteswins&layout=compact&theme=gruvbox_light" alt="language I use" />
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelbarranteswins&show_icons=true&theme=gruvbox_light" alt="my actions" />
+>>>>>>> 8fbd71a08f4275d8300e139a938230b4f16ed1c8
 
 
 
