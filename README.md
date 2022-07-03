@@ -9,7 +9,7 @@
   <a href="https://github.com/joelbarranteswin"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 Hi, I'm **joel barrantes palacios**, a mining engineer and a passionate self-taught programmer who works like a freelance software development from Perú. 
  
@@ -75,9 +75,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ### 📈my github stats [Click on](https://skyline.github.com/joelbarranteswins/2021)<br /><br /> 
 
-
-
-<<<<<<< HEAD
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelbarranteswins&layout=compact&theme=gruvbox_light" alt="joelbarranteswins" />
 
 
@@ -87,7 +84,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelbarranteswins&show_icons=true&theme=gruvbox_light" alt="my actions" />
->>>>>>> 8fbd71a08f4275d8300e139a938230b4f16ed1c8
+
 
 
 
