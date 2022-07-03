@@ -9,7 +9,7 @@
   <a href="https://github.com/joelbarranteswin"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> -->
 
 Hi, I'm **joel barrantes palacios**, a mining engineer and a passionate self-taught programmer who works like a freelance software development from Perú. 
  
