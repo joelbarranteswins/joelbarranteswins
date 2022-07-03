@@ -50,20 +50,20 @@ I am also an open-source enthusiast because i learned a lot from the open-source
 <a href="https://code.visualstudio.com/" title="R studio"><img height="55" src="icons/excel.png" /></a>
 <a href="https://code.visualstudio.com/" title="R studio"><img height="55" src="icons/msproject.png" /></a>
 
-### 📊 **This month I spent my time on:**
-<!--START_SECTION:waka-->
+<!-- ### 📊 **This month I spent my time on:** -->
+<!--START_SECTION:waka
 ```text                                             
 Python     150 hrs 40 mins   ███████████████░░░░░░░░░░   59.36 % 
 SQL         30 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
 Bash        15 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 Postgresql  15 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 Other       20 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-```
+```-->
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/joelbarrantes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/joelbarrantes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 
 ### 🖤 What I'm Doing this month:
@@ -79,11 +79,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelbarranteswins&show_icons=true&theme=gruvbox_light" alt="joelbarranteswins" />
-=======
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelbarranteswins&layout=compact&theme=gruvbox_light" alt="language I use" />
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelbarranteswins&show_icons=true&theme=gruvbox_light" alt="my actions" />
 
 
 
