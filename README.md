@@ -11,7 +11,7 @@
 
 <!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> -->
 
-Hi, I'm **joel barrantes palacios**, a mining engineer and a passionate self-taught programmer who works like a freelance software development from Perú. 
+Hi, I'm **joel barrantes palacios**, a mining engineer and a passionate self-taught programmer who works like a software developer from Perú. 
  
 <!-- my passion for software lies with thinking ideas of making people's life easier and making them come true with elegant interfaces.
 
@@ -50,16 +50,6 @@ I am also an open-source enthusiast because i learned a lot from the open-source
 <a href="https://code.visualstudio.com/" title="R studio"><img height="55" src="icons/excel.png" /></a>
 <a href="https://code.visualstudio.com/" title="R studio"><img height="55" src="icons/msproject.png" /></a> -->
 
-<!-- ### 📊 **This month I spent my time on:** -->
-<!--START_SECTION:waka
-```text                                             
-Python     150 hrs 40 mins   ███████████████░░░░░░░░░░   59.36 % 
-SQL         30 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Bash        15 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Postgresql  15 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Other       20 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-```-->
-<!--END_SECTION:waka-->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
