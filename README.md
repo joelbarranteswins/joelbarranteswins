@@ -86,3 +86,19 @@ I created these images, feel free to use them.
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
+
+---
+
+## Best projects
+
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/joelbarranteswins/Platzi-Courses">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joelbarranteswins&repo=Platzi-Courses" />
+  </a>
+  <!-- <a href="https://github.com/onimur/circleci-github-changelog-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  </a> -->
+</p>
+
+<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
