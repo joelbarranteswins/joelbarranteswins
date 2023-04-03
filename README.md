@@ -15,13 +15,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joelbarranteswins)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joelbarrantespalacios/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joelbarrantespalacios@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:joel_barrantes_nh@hotmail.com)
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/) -->
-
-&nbsp;
+Hi, I'm **joel barrantes palacios**, a mining engineer and a passionate self-taught programmer who works like a freelance software development from Perú. 
+ 
+<!-- my passion for software lies with thinking ideas of making people's life easier and making them come true with elegant interfaces.
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -47,27 +43,48 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
 
 
-  <a align="center"> <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=joelbarranteswins&show_icons=true" alt="joelbarranteswins" />
-  </a>
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/icons/fastapi/fastapi-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+### **tools:**  
+<a href="https://git-scm.com/" title="Git"><img height="70" src="icons/git.png" /></a>
+<a href="https://github.com/" title="GitHub"><img height="60" src="icons/github.png" /></a>
+<a href="https://gitlab.com/" title="GitLab"><img height="60" src="icons/gitlab.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img height="80"  src="icons/mysql.png" /></a>
+<a href="https://www.mysql.com/" title="SQLserver"><img height="80"  src="icons/sqlserver.png" /></a>
+<a href="https://www.mysql.com/" title="Postgresql"><img height="68" src="icons/postgresql.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="55" src="icons/vscode.png" /></a>
+<a href="https://code.visualstudio.com/" title="anaconda naviagtor"><img height="50" src="icons/anaconda.png" /></a>
+<a href="https://code.visualstudio.com/" title="R studio"><img height="40" src="icons/rstudio.png" /></a>
+<a href="https://code.visualstudio.com/" title="R studio"><img height="55" src="icons/excel.png" /></a>
+<a href="https://code.visualstudio.com/" title="R studio"><img height="55" src="icons/msproject.png" /></a> -->
+
+<!-- ### 📊 **This month I spent my time on:** -->
+<!--START_SECTION:waka
+```text                                             
+Python     150 hrs 40 mins   ███████████████░░░░░░░░░░   59.36 % 
+SQL         30 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Bash        15 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Postgresql  15 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Other       20 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+```-->
+<!--END_SECTION:waka-->
+
+<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/joelbarrantes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
+
+
+<!-- ### 🖤 What I'm Doing this month:
+* ✨ Studing C#
+* ✨ Studing JavaScript
+* ✨ creating my website as CV
+
+<br /> -->
+
+### 📈my github stats [Click on](https://skyline.github.com/joelbarranteswins/2021)<br /><br /> 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelbarranteswins&layout=compact&theme=gruvbox_light" alt="joelbarranteswins" />
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joelbarranteswins&show_icons=true&theme=gruvbox_light" alt="joelbarranteswins" />
 
 
 
