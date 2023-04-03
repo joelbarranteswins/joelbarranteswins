@@ -43,8 +43,8 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a align="center"> <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelbarranteswins&layout=compact&theme=default" alt="joelbarranteswins">
-  </a>
+  <!-- <a align="center"> <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelbarranteswins&layout=compact&theme=default" alt="joelbarranteswins">
+  </a> -->
 
 
   <a align="center"> <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=joelbarranteswins&show_icons=true" alt="joelbarranteswins" />
