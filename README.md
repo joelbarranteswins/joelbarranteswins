@@ -29,13 +29,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="./headers/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [SilocyData](https://silocydata.cl/);
-- 🌱 I’m currently improving my knowledge about python; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in mining engineering;
-- 📫 How to reach me: joelbarrantespalacios@hotmail.com;
+- 👨🏽‍💻 I’m currently working on [`SilocyData`](https://silocydata.cl/)
+- 🌱 I’m currently improving my knowledge
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: I studied mining engineering
+- 📫 How to reach me: joelbarrantespalacios@hotmail.com
 
 **Languages and Tools:** 
 
@@ -52,30 +50,43 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/icons/fastapi/fastapi-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <a href="" title="csharp"><img height="50" src="icons/csharp.png" /></a>
+<a href="" title="Python"><img height="50" src="icons/python.png" /></a>
+<a href="" title="Java"><img height="50" src="icons/openjdk.png" /></a>
+<a href="" title="golang"><img height="50" src="icons/golang.png" /></a>
+<a href="" title="csharp"><img height="55" src="./icons/javascript.png" /></a>
+<a href="" title="Html"><img height="50" src="icons/html.png" /></a>
+<a href="" title="css"><img height="50" src="icons/css.png" /></a>
+<a href="" title="MD"><img height="40" src="icons/markdown.png" /></a>
+<a href="" title="vba"><img height="60" src="icons/vba.png" /></a>
+
+<a href="" title="Git"><img height="70" src="icons/git.png" /></a>
+<a href="" title="GitHub"><img height="50" src="icons/github.png" /></a>
+<a href="" title="GitLab"><img height="50" src="icons/gitlab.png" /></a>
+<a href="" title="MySQL"><img height="70"  src="icons/mysql.png" /></a>
+<a href="" title="SQLserver"><img height="60"  src="icons/sqlserver.png" /></a>
+<a href="" title="Postgresql"><img height="60" src="icons/postgresql.png" /></a>
+<a href="" title="Visual Studio Code"><img height="50" src="icons/vscode.png" /></a>
+<a href="" title="Visual Studio Code"><img height="45" src="icons/visualstudio2022.png" /></a>
+<a href="" title="anaconda naviagtor"><img height="45" src="icons/anaconda.png" /></a>
+<a href="" title="msproject"><img height="40" src="icons/notion.png" /></a>
+<a href="" title="R studio"><img height="35" src="icons/rstudio.png" /></a>
+<a href="" title="excel"><img height="40" src="icons/excel.png" /></a>
+<a href="" title="msproject"><img height="40" src="icons/msproject.png" /></a>
+
+
 </p>
 
 
 
 ## Support me
+
+Well, I don't need it 😁
+
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
-<p align="center">
+<!-- <p align="center">
   <a href="" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
   </a>
@@ -85,17 +96,17 @@ I created these images, feel free to use them.
   <a href="" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
-</p>
+</p> -->
 
 ---
 
-## Best projects
+<!-- ## Best projects -->
 
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/joelbarranteswins/Platzi-Courses">
+  <!-- <a href="https://github.com/joelbarranteswins/Platzi-Courses">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joelbarranteswins&repo=Platzi-Courses" />
-  </a>
+  </a> -->
   <!-- <a href="https://github.com/onimur/circleci-github-changelog-generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
   </a> -->

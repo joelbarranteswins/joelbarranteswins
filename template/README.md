@@ -25,7 +25,7 @@ I am also an open-source enthusiast because i learned a lot from the open-source
 <!-- - 💼 do you want to ask me something? do reach, [email](mailto:joelbarrantespalacios@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;  -->
 
-<!-- 
+
 ### **languages:**  
 
 <a href="https://www.python.org/" title="csharp"><img height="55" src="icons/csharp.png" /></a>
@@ -48,7 +48,8 @@ I am also an open-source enthusiast because i learned a lot from the open-source
 <a href="https://code.visualstudio.com/" title="anaconda naviagtor"><img height="50" src="icons/anaconda.png" /></a>
 <a href="https://code.visualstudio.com/" title="R studio"><img height="40" src="icons/rstudio.png" /></a>
 <a href="https://code.visualstudio.com/" title="R studio"><img height="55" src="icons/excel.png" /></a>
-<a href="https://code.visualstudio.com/" title="R studio"><img height="55" src="icons/msproject.png" /></a> -->
+<a href="https://code.visualstudio.com/" title="R studio"><img height="55" src="icons/msproject.png" /></a> 
+
 
 <!-- ### 📊 **This month I spent my time on:** -->
 <!--START_SECTION:waka
