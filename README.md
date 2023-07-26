@@ -50,28 +50,34 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <a href="" title="csharp"><img height="50" src="icons/csharp.png" /></a>
+  <a href="" title="csharp"><img height="50" src="icons/csharp.png" /></a>&nbsp;&nbsp;
 <a href="" title="Python"><img height="47" src="icons/python.png" /></a>
 <a href="" title="Java"><img height="54" src="icons/openjdk.png" /></a>
-<a href="" title="golang"><img height="55" src="icons/golang.png" /></a>
-<a href="" title="js"><img height="51" src="./icons/javascript.png" /></a>
-<a href="" title="Html"><img height="50" src="icons/html.png" /></a>
-<a href="" title="css"><img height="50" src="icons/css.png" /></a>
-<a href="" title="MD"><img height="40" src="icons/markdown.png" /></a>
+<a href="" title="golang"><img height="55" src="icons/golang.png" /></a>&nbsp;
+<a href="" title="js"><img height="51" src="./icons/javascript.png" /></a>&nbsp;
+<a href="" title="Html"><img height="50" src="icons/html.png" /></a>&nbsp;
+<a href="" title="css"><img height="50" src="icons/css.png" /></a>&nbsp;&nbsp;
+<a href="" title="MD"><img height="40" src="icons/markdown.png" /></a>&nbsp;&nbsp;
 <a href="" title="vba"><img height="60" src="icons/vba.png" /></a>
 
-<a href="" title="Git"><img height="70" src="icons/git.png" /></a>
-<a href="" title="GitHub"><img height="50" src="icons/github.png" /></a>
-<a href="" title="GitLab"><img height="50" src="icons/gitlab.png" /></a>
-<a href="" title="MySQL"><img height="70"  src="icons/mysql.png" /></a>
-<a href="" title="SQLserver"><img height="60"  src="icons/sqlserver.png" /></a>
-<a href="" title="Postgresql"><img height="60" src="icons/postgresql.png" /></a>
-<a href="" title="Visual Studio Code"><img height="50" src="icons/vscode.png" /></a>
-<a href="" title="Visual Studio Code"><img height="45" src="icons/visualstudio2022.png" /></a>
-<a href="" title="anaconda naviagtor"><img height="45" src="icons/anaconda.png" /></a>
-<a href="" title="msproject"><img height="40" src="icons/notion.png" /></a>
-<a href="" title="R studio"><img height="35" src="icons/rstudio.png" /></a>
-<a href="" title="excel"><img height="40" src="icons/excel.png" /></a>
+<a href="" title="django"><img height="50" src="icons/django.png" /></a>&nbsp;&nbsp;
+<a href="" title="fastapi"><img height="43" src="icons/fastapi.png" /></a>&nbsp;&nbsp;
+<a href="" title="MD"><img height="50" src="icons/netframework.png" /></a>&nbsp;&nbsp;
+<a href="" title="vba"><img height="50" src="icons/dotnetcore.png" /></a>&nbsp;&nbsp;
+<a href="" title="vba"><img height="50" src="icons/maui.png" /></a>
+
+<a href="" title="Git"><img height="70" src="icons/git.png" /></a>&nbsp;&nbsp;
+<a href="" title="GitHub"><img height="50" src="icons/github.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="" title="GitLab"><img height="50" src="icons/gitlab.png" /></a>&nbsp;&nbsp;
+<a href="" title="MySQL"><img height="70"  src="icons/mysql.png" /></a>&nbsp;
+<a href="" title="SQLserver"><img height="60"  src="icons/sqlserver.png" /></a>&nbsp;
+<a href="" title="Postgresql"><img height="57" src="icons/postgresql.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="" title="Visual Studio Code"><img height="50" src="icons/vscode.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="" title="Visual Studio 2022"><img height="45" src="icons/visualstudio2022.png" /></a>&nbsp;&nbsp;
+<a href="" title="anaconda navigator"><img height="45" src="icons/anaconda.png" /></a>&nbsp;&nbsp;
+<a href="" title="notion"><img height="40" src="icons/notion.png" /></a>&nbsp;
+<a href="" title="R studio"><img height="35" src="icons/rstudio.png" /></a>&nbsp;&nbsp;
+<a href="" title="excel"><img height="40" src="icons/excel.png" /></a>&nbsp;&nbsp;
 <a href="" title="msproject"><img height="40" src="icons/msproject.png" /></a>
 
 
