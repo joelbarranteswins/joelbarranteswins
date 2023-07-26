@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I studied mining engineering
 - 📫 How to reach me: joelbarrantespalacios@hotmail.com
 
-**Languages and Tools:** 
+**Languages, frameworks and Tools:** 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -51,10 +51,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <a href="" title="csharp"><img height="50" src="icons/csharp.png" /></a>
-<a href="" title="Python"><img height="50" src="icons/python.png" /></a>
-<a href="" title="Java"><img height="50" src="icons/openjdk.png" /></a>
-<a href="" title="golang"><img height="50" src="icons/golang.png" /></a>
-<a href="" title="csharp"><img height="55" src="./icons/javascript.png" /></a>
+<a href="" title="Python"><img height="47" src="icons/python.png" /></a>
+<a href="" title="Java"><img height="54" src="icons/openjdk.png" /></a>
+<a href="" title="golang"><img height="55" src="icons/golang.png" /></a>
+<a href="" title="js"><img height="51" src="./icons/javascript.png" /></a>
 <a href="" title="Html"><img height="50" src="icons/html.png" /></a>
 <a href="" title="css"><img height="50" src="icons/css.png" /></a>
 <a href="" title="MD"><img height="40" src="icons/markdown.png" /></a>
