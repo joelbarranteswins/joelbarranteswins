@@ -65,20 +65,26 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <a href="" title="MD"><img height="50" src="icons/netframework.png" /></a>&nbsp;&nbsp;
 <a href="" title="vba"><img height="50" src="icons/dotnetcore.png" /></a>&nbsp;&nbsp;
 <a href="" title="vba"><img height="50" src="icons/maui.png" /></a>
+<a href="" title="vba"><img height="47" src="icons/wpf.png" /></a>
 
-<a href="" title="Git"><img height="70" src="icons/git.png" /></a>&nbsp;&nbsp;
+<a href="" title="Git"><img height="43" src="icons/git.png" /></a>&nbsp;&nbsp;
 <a href="" title="GitHub"><img height="50" src="icons/github.png" /></a>&nbsp;&nbsp;&nbsp;
-<a href="" title="GitLab"><img height="50" src="icons/gitlab.png" /></a>&nbsp;&nbsp;
+<a href="" title="GitLab"><img height="50" 
+src="icons/gitlab.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="" title="GitLab"><img height="58" src="icons/docker.png" /></a>&nbsp;&nbsp;
 <a href="" title="MySQL"><img height="70"  src="icons/mysql.png" /></a>&nbsp;
-<a href="" title="SQLserver"><img height="60"  src="icons/sqlserver.png" /></a>&nbsp;
-<a href="" title="Postgresql"><img height="57" src="icons/postgresql.png" /></a>&nbsp;&nbsp;&nbsp;
-<a href="" title="Visual Studio Code"><img height="50" src="icons/vscode.png" /></a>&nbsp;&nbsp;&nbsp;
-<a href="" title="Visual Studio 2022"><img height="45" src="icons/visualstudio2022.png" /></a>&nbsp;&nbsp;
-<a href="" title="anaconda navigator"><img height="45" src="icons/anaconda.png" /></a>&nbsp;&nbsp;
-<a href="" title="notion"><img height="40" src="icons/notion.png" /></a>&nbsp;
+<a href="" title="SQLserver"><img height="55"  src="icons/sqlserver.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" title="Postgresql"><img height="57" src="icons/postgresql.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" title="Visual Studio Code"><img height="50" src="icons/vscode.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" title="Visual Studio 2022"><img height="45" src="icons/visualstudio2022.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" title="anaconda navigator"><img height="45" src="icons/anaconda.png" /></a>&nbsp;&nbsp;&nbsp;
 <a href="" title="R studio"><img height="35" src="icons/rstudio.png" /></a>&nbsp;&nbsp;
 <a href="" title="excel"><img height="40" src="icons/excel.png" /></a>&nbsp;&nbsp;
-<a href="" title="msproject"><img height="40" src="icons/msproject.png" /></a>
+<a href="" title="msproject"><img height="40" src="icons/msproject.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="" title="notion"><img height="40" src="icons/notion.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="" title="msproject"><img height="40" src="icons/adobe_audition.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="" title="msproject"><img height="40" src="icons/adobe_photoshop.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="" title="msproject"><img height="40" src="icons/adobe_premier.png" /></a>
 
 
 </p>
