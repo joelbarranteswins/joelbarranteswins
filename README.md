@@ -93,7 +93,9 @@ src="icons/gitlab.png" /></a>&nbsp;&nbsp;&nbsp;
 
 ## Support me
 
-Well, I don't need it 😁
+Well, I would appreciate it if you want to be part of my network. 😁
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joelbarrantespalacios/)
 
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
