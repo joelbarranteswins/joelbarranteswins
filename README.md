@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="./headers/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [`SilocyData`](https://silocydata.cl/)
+- 👨🏽‍💻 I’m currently working on myself
 - 🌱 I’m currently improving my knowledge
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I studied mining engineering
